@@ -1,6 +1,7 @@
 {
 	"username" : "hasanfarooq12",
 	"password" : "you wish",
-	"usingGoogleOAuth" : false
+	"usingGoogleOAuth" : false,
+	"testingType" : "monkey"
 	
 }
